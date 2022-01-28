@@ -1,2 +1,2 @@
 # phprogressbartw.github.io
-ph progressbar site exercise
+progressbar site exercise
